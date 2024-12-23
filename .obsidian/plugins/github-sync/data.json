@@ -1,5 +1,5 @@
 {
-  "remoteURL": "https://github.com/TeixeiraRafael/obsidian-vault",
+  "remoteURL": "git@github.com:TeixeiraRafael/obsidian-vault.git",
   "gitLocation": "",
   "syncinterval": 5,
   "isSyncOnLoad": true
