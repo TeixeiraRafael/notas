@@ -11,10 +11,14 @@
             "id": "9cdb49923ef74cdd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "DefensePoint/DFARS Research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DFARS Research"
             }
           }
         ]
@@ -157,6 +161,8 @@
   },
   "active": "9cdb49923ef74cdd",
   "lastOpenFiles": [
+    "DefensePoint/DFARS Research.md",
+    "DefensePoint",
     "Welcome.md",
     "Investimentos",
     "create a link.md"
