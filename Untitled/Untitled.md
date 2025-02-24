@@ -1,1 +1,0 @@
-GET http://localhost:8080/users/login?email=test@example.com%27+OR+1=1;+--+-&password=mypassword@123
