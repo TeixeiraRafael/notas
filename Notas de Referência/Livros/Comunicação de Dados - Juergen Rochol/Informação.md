@@ -6,7 +6,7 @@ tags:
   - rochol
   - shannon
 ---
-Claude E. Shannon foi o primeiro a propor uma maneira quantitativa de estudar Informação, partindo do princípio de que Informação é uma função da probabilidade, uma medida associada à incerteza atrelada a cada símbolo alfabeto utilizado na comunicação.
+Claude E. Shannon foi o primeiro a propor uma maneira quantitativa de estudar Informação, partindo do princípio de que Informação é uma função da probabilidade, uma medida associada ao processo de sel;e atrelada a cada símbolo alfabeto utilizado na comunicação.
 
 Se um símbolo tem 100% de chance de ocorrer em um alfabeto, não há o quê comunicar, a parte receptora sabe exatamente o que será enviado através do canal. A Quantidade de Informação que um símbolo comunica tem a ver com a incerteza que o receptor tem sobre a sua ocorrência, portanto, quanto menor a probabilidade, maior é a quantidade de informação que um símbolo carrega.
 
@@ -15,6 +15,8 @@ De forma analítica, a representação da Informação deve seguir os seguintes 
 - Se um símbolo tem baixa probabilidade de ocorrer, a quantidade de informação que ele carrega é baixa.
 - A quantidade de informação deve ser monotonicamente decrescente com a probabilidade de ocorrência de um símbolo.
 
-A função matemática que descreve esse comportamento é:
+A função matemática que descreve esse comportamento é, tomando um alfabeto X{x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub>, ... x<sub>n</sub>}:
 
-$I(\xi)$
+$I(x_{i}) = -\log_{2}p_{i} = \frac{\log_{2}1}{p_{i}}$
+
+Onde x<sub>i</sub> é um elemento qualquer do alfabeto X, e p<sub>i</sub> é a probabilidade da seleção desse elemento no processoo elemento.
