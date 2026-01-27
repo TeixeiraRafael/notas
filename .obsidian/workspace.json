@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Entropia da Informação.md",
+                "file": "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/O que é Informação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entropia da Informação"
+              "title": "O que é Informação"
             }
           }
         ],
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Entropia da Informação.md",
+                "file": "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/O que é Informação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Entropia da Informação"
+              "title": "Outgoing links from O que é Informação"
             }
           },
           {
@@ -197,8 +197,9 @@
   },
   "active": "07b057e8db016181",
   "lastOpenFiles": [
-    "Notas de Referência/Untitled.md",
     "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Entropia da Informação.md",
+    "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/O que é Informação.md",
+    "Notas de Referência/Untitled.md",
     "Ensaios",
     "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol",
     "Notas de Referência/Livros",
