@@ -16,8 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "07b057e8db016181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Entropia da Informação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entropia da Informação"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Entropia da Informação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Entropia da Informação"
             }
           },
           {
@@ -152,27 +167,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Entropia da Informação.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
-            }
-          },
-          {
-            "id": "f9264dd7c86cee6d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "title": "Outline of Entropia da Informação"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,12 +195,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "6795ef44ca57205e",
+  "active": "968db7a55a1155c4",
   "lastOpenFiles": [
+    "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Entropia da Informação.md",
+    "Ensaios",
+    "Notas de Referência/Untitled.md",
+    "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol",
+    "Notas de Referência/Livros",
+    "2026-01-27.md",
+    "Test.md",
     "Notas de Referência",
     "Notas rápidas",
     "Work/DefensePoint/EmpowerID/SCIM Threat Modeling.md",
-    "2026-01-27.md",
     "Work",
     "Welcome.md"
   ]
