@@ -29,4 +29,4 @@ $Q(M) = \sum_{i=1}^{k} -\log_{2}p_{i}$
 
 
 ### Referências:
-ROCHOL, Juergen. Comunicação de dados. Porto Alegre: Bookman, 2012. E-book. Disponível em: https://app.minhabiblioteca.com.br/books/9788540700536.
+ROCHOL, Juergen. Comunicação de dados. Porto Alegre: Bookman, 2012. ([amazon](https://www.amazon.com.br/Comunica%C3%A7%C3%A3o-Dados-22-Juergen-Rochol/dp/8540700379))
