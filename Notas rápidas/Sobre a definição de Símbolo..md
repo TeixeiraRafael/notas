@@ -11,5 +11,7 @@ O "símbolo lógico", ou "símbolo da fonte" é a ideia abstrata que carrega con
 
 O "símbolo do alfabeto de elementos" estão um nível abaixo na pilha de abstração. Esses são os símbolos utilizados para representar um símbolo lógico. Na comunicação de dados digitais, esse símbolos são os bits, 0 e 1, que podem ser utilizados para representar um símbolo lógico do nosso alfabeto de símbolos lógicos. Da tabela ASCII, o caractere A é um símbolo lógico, representado por um conjunto de bits (nosso alfabeto de elementos) pela sequência `01000001`.
 
-> Tanto os Símbolos Lógicos quanto os Símbolos do alfabeto de elementos são parte da camada da Fonte de Informação.
+> Tanto os Símbolos Lógicos quanto os Símbolos do alfabeto de elementos são parte da camada da Fonte de Informação; eles existem em um nível de abstração mais alto que os símbolos de modulação, que por sua vez, pertencem à camada do Canal de Transmissão.
+
+Símbolos de modulação são a representação física de um símbolo lógico codificado, e descrevem o estado de um sinal durante a transmissão de um símbolo lógico.  Podem ser uma voltagem, uma fase de onda, qualquer forma de reps
 
