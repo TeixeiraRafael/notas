@@ -19,7 +19,7 @@ A função matemática que descreve esse comportamento é, tomando um alfabeto X
 
 $I(x_{i}) = -\log_{2}p_{i} = \frac{\log_{2}1}{p_{i}}$
 
-Onde x<sub>i</sub> é um elemento qualquer do alfabeto X, e p<sub>i</sub> é a probabilidade da seleção desse elemento no processo elemento.
+Onde x<sub>i</sub> é um elemento qualquer do alfabeto X, e p<sub>i</sub> é a probabilidade da seleção desse elemento no processo.
 
 >**Informação é uma grandeza associada a um símbolo de um alfabeto**
 
