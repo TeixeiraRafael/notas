@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Informação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Informação"
             }
           },
           {
@@ -136,32 +137,18 @@
             }
           },
           {
-            "id": "02032568f1badb09",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
-            }
-          },
-          {
             "id": "bdeeb1b7ca07cfbc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Entropia da Informação.md",
+                "file": "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Informação.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Entropia da Informação"
+              "title": "Outline of Informação"
             }
           }
         ],
@@ -183,7 +170,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "02032568f1badb09",
+  "active": "bdeeb1b7ca07cfbc",
   "lastOpenFiles": [
     "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Informação.md",
     "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Entropia da Informação.md",
