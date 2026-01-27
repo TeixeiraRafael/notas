@@ -13,5 +13,12 @@ O "símbolo do alfabeto de elementos" estão um nível abaixo na pilha de abstra
 
 > Tanto os Símbolos Lógicos quanto os Símbolos do alfabeto de elementos são parte da camada da Fonte de Informação; eles existem em um nível de abstração mais alto que os símbolos de modulação, que por sua vez, pertencem à camada do Canal de Transmissão.
 
-Símbolos de modulação são a representação física de um símbolo lógico codificado, e descrevem o estado de um sinal durante a transmissão de um símbolo lógico.  Podem ser uma voltagem, uma fase de onda, qualquer forma de reps
+Símbolos de modulação são a representação física de um símbolo lógico codificado, e descrevem o estado de um sinal durante a transmissão de um símbolo lógico.  Podem ser uma voltagem, uma fase de onda - qualquer forma de representação física de um símbolo lógico.
+
+A hierarquia então é essa: Um **símbolo lógico** é codificado em **símbolos do alfabeto de elementos** e transmitido através do canal de comunicação na forma de um **símbolo de modulação**.
+
+Para facilitar a minha vida, vou sempre me referir aos símbolos do alfabeto de elementos como *bits* . Acho que o próprio Shannon fazia isso. Sei lá, não entrei em contato direto com a fonte primária ainda. Vem aí.
+
+## Referências:
+[[Informação]]
 
