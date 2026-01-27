@@ -21,7 +21,7 @@ $I(x_{i}) = -\log_{2}p_{i} = \frac{\log_{2}1}{p_{i}}$
 
 Onde x<sub>i</sub> é um elemento qualquer do alfabeto X, e p<sub>i</sub> é a probabilidade da seleção desse elemento no processo elemento.
 
-**Informação é uma grandeza associada a um símbolo de um alfabeto**
+>**Informação é uma grandeza associada a um símbolo de um alfabeto**
 
 A quantidade de informação contida em uma mensagem *M* de *k* caracteres pode ser expressada simplesmente pela soma da quantidade de informação associada a cada caractere da mensagem:
 
