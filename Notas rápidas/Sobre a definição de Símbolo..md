@@ -17,8 +17,9 @@ Símbolos de modulação são a representação física de um símbolo lógico c
 
 A hierarquia então é essa: Um **símbolo lógico** é codificado em **símbolos do alfabeto de elementos** e transmitido através do canal de comunicação na forma de um **símbolo de modulação**.
 
-Para facilitar a minha vida, vou sempre me referir aos símbolos do alfabeto de elementos como *bits* . Acho que o próprio Shannon fazia isso. Sei lá, não entrei em contato direto com a fonte primária ainda. Vem aí.
+Para facilitar a minha vida, vou sempre me referir aos símbolos do alfabeto de elementos como bits. Acho que o próprio Shannon fazia isso. Sei lá, não entrei em contato direto com a fonte primária ainda. Num futuro próximo...
 
+---
 ## Referências:
 [[Informação]]
 
