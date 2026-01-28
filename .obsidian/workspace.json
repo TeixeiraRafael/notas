@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas rápidas/Sobre a definição de Símbolo..md",
+                "file": "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Informação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sobre a definição de Símbolo."
+              "title": "Informação"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas rápidas/Sobre a definição de Símbolo..md",
+                "file": "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Informação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sobre a definição de Símbolo."
+              "title": "Backlinks for Informação"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas rápidas/Sobre a definição de Símbolo..md",
+                "file": "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Informação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sobre a definição de Símbolo."
+              "title": "Outgoing links from Informação"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas rápidas/Sobre a definição de Símbolo..md",
+                "file": "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Informação.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sobre a definição de Símbolo."
+              "title": "Outline of Informação"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "9b6a0657e6a4cd91",
   "lastOpenFiles": [
-    "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Informação.md",
     "Notas rápidas/Sobre a definição de Símbolo..md",
+    "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Informação.md",
     "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Entropia da Informação.md",
     "Notas rápidas/Informação.md",
     "Notas de Referência/Untitled.md",
