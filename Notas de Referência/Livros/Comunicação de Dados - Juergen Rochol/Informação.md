@@ -17,9 +17,9 @@ De forma analítica, a representação da Informação deve seguir os seguintes 
 
 A função matemática que descreve esse comportamento é, tomando um alfabeto X{x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub>, ... x<sub>n</sub>}:
 
-$I(x_{i}) = -\log_{2}p_{i} = \frac{\frac{\log_{\frac{2}{p_{i}}}$
+$I(x_{i}) = -\log_{2}p_{i} = \log_{2}\frac{1}{p_{i}}$
 
-Onde x<sub>i</sub> é um elemento qualquer do alfabeto X, e p<sub>i</sub> é a probabilidade da seleção desse elemento no processo.
+Onde x<sub>i</sub> é um elemento qualquer do alfabeto X, e p<sub>i</sub> é a probabilidade da seleção desse elemento no processo elemento.
 
 >**Informação é uma grandeza associada a um símbolo de um alfabeto**
 
