@@ -27,6 +27,7 @@ A quantidade de informação contida em uma mensagem *M* de *k* caracteres pode 
 
 $Q(M) = \sum_{i=1}^{k} -\log_{2}p_{i}$
 
-
+Aqui cabe comentar também que a probabilidade de ocorrência de um símbolo não tem nenhuma relação direta com o alfabeto, mas sim com o que está sendo comunicado com aquele alfabeto.
+Os caracteres da tabela ASCII, por exemplo, não carregam em si nenhuma probabilidade, eles são apenas um padrão de codificação. A probabilidade de seleção de cada caractere desse alfabeto, depende diretamente do idioma utilizado!
 ### Referências:
 ROCHOL, Juergen. Comunicação de dados. Porto Alegre: Bookman, 2012. ([amazon](https://www.amazon.com.br/Comunica%C3%A7%C3%A3o-Dados-22-Juergen-Rochol/dp/8540700379))
