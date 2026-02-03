@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Informação.md",
+                "file": "Notas rápidas/Lista de leituras 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Informação"
+              "title": "Lista de leituras 2026"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Informação.md",
+                "file": "Notas rápidas/Lista de leituras 2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Informação"
+              "title": "Backlinks for Lista de leituras 2026"
             }
           },
           {
@@ -169,11 +169,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6795ef44ca57205e",
+  "active": "169409a325b08a25",
   "lastOpenFiles": [
+    "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Informação.md",
+    "Notas rápidas/Lista de leituras 2026.md",
     "Notas rápidas/Sobre a definição de Símbolo..md",
     "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Entropia da Informação.md",
-    "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Informação.md",
     "Notas rápidas/Informação.md",
     "Notas de Referência/Untitled.md",
     "Ensaios",
