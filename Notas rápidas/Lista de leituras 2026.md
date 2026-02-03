@@ -1,2 +1,2 @@
-- Memórias da Casa dos Mortos - Fyodor Dostoevsky
-- 
+- Memórias da Casa dos Mortos - Fiodor Dostoiévski
+- Discurso do Método - René Descartes
