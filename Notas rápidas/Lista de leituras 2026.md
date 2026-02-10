@@ -1,2 +1,4 @@
 - Memórias da Casa dos Mortos - Fiodor Dostoiévski
 - Discurso do Método - René Descartes
+- Te dei olhos e olhaste as trevas - Irene Solà
+- 
