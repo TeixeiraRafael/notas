@@ -31,6 +31,7 @@ $$
 Simplificando os cossenos temos:
 $$\omega (t+T)+\varphi=\omega t + \varphi + 2\pi$$
 
+
 Podemos também simplificar os termos da constante de fase φ:
 $$\omega (t+T) = \omega t + 2\pi$$
 Então:
