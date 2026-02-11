@@ -13,5 +13,7 @@ Como a figura mostra, para cada ponto do eixo X existe um ângulo θ corresponde
 
 A partir dessa projeção, podemos descrever cada posição do corpo no eixo x em função do cosseno do ângulo θ e a amplitude `A` do movimento, da seguinte forma:
 $$\cos(\phi) = \frac{x}{A}$$$$x = \cos(\phi) * A$$
-Para analisarmos o comportamento do corpo ao longo do tempo, precisamos adicionar mais alguns termos no argumento da função cosseno, um deles é a frequência angular ω, o instante no tempo `t` e a constante de fase φ. Sendo assim, a função que descreve a posição ao longo do tempo é: $$x(t) = \cos(\omega t + \varphi)$$
-O termo ωt representa a variação do ângulo em função do tempo, é a parte "dinâmica" da definição, que se refere ao movimento em si, a constante de fase é um
+Para analisarmos o comportamento do corpo ao longo do tempo, precisamos adicionar mais alguns termos no argumento da função cosseno, um deles é a frequência angular ω, o instante no tempo `t` e a constante de fase φ. Sendo assim, a função que descreve a posição ao longo do tempo é: $$x(t) = x_{m}*\cos(\omega t + \varphi)$$
+O termo ωt representa a variação do ângulo em função do tempo, é a parte "dinâmica" da definição, que se refere ao movimento em si, a constante de fase serve como uma espécie de correção do cálculo, indica onde o corpo estava no instante `t = 0`, sem esse termo, a equação só seria capaz de descrever movimentos de corpos cuja posição inicial é o deslocamento máximo (xm).
+
+
