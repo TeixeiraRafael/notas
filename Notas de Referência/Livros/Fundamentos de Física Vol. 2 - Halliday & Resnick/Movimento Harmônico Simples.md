@@ -7,6 +7,8 @@ Um Movimento Harmônico Simples (MHS) é um tipo básico de oscilação, definid
 
 Como veremos a seguir, a maioria das equações que modelam o comportamento de um MHS envolvem ângulos, fases e frequências angulares. No primeiro momento isso pode não fazer sentido, de onde viria um ângulo e um movimento que é, por definição, retilíneo? Acontece que todo movimento oscilatório pode ser estudado como a "sombra"de um movimento circular uniforme. É dessa relação se surgem os ângulos nas equações que descrevem seu comportamento.
 
-Como a figura mostra, para cada ponto do eixo X existe um ângulo $\phi $$
+Como a figura mostra, para cada ponto do eixo X existe um ângulo θ correspondente no círculo.
 
 ![[MHS como Projeção de um MCU.png]]
+
+Essa analogia facilita bastante o estudo do movimento, uma análise gráfica do MHS mostra que seu comportamento é o mesmo de uma função cosseno.
