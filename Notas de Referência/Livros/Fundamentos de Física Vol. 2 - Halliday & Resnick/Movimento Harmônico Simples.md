@@ -11,4 +11,5 @@ Como a figura mostra, para cada ponto do eixo X existe um ângulo θ corresponde
 
 ![[MHS como Projeção de um MCU.png]]
 
-Essa analogia facilita bastante o estudo do movimento, uma análise gráfica do MHS mostra que seu comportamento é o mesmo de uma função cosseno.
+A partir dessa projeção, podemos descrever cada posição do objeto no eixo x em função do cosseno do ângulo θ e a amplitude `A` do movimento, da seguinte forma:
+$$\cos(\phi) = \frac{x}{A}$$$$x = \cos(\phi) * A$$
