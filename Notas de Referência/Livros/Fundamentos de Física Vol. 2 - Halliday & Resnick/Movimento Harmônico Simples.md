@@ -39,6 +39,12 @@ $$\omega T = 2\pi$$
 $$\omega = \frac{2\pi}{T} = 2\pi f$$
 A partir da função que descreve a posição do corpo ao longo do tempo, podemos definir a função que descreve a sua velocidade e aceleração. A velocidade é definida como a variação da posição em função do tempo, portanto:
 $$
-v(t) = \frac{dx(t)}{dt} = \frac{d}{dt}[x_{m}\cos(\omega t + \varphi)]
+v(t) = \frac{d}{dt}x(t) = \frac{d}{dt}[x_{m}\cos(\omega t + \varphi)]
 $$
-$$v(t) = -\omega * x_{m}$$
+$$v(t) = -\omega . x_{m} . \sin (\omega t + \varphi)$$
+Derivando a velocidade, obtemos a aceleração, a taxa de variação da velocidade em função do tempo:
+$$a(t) = \frac{d}{dt}v(t) = \frac{d}{dt}[-\omega  x_{m}\sin (\omega t + \varphi)]$$
+$$a(t) = -\omega² [xm\cos(\omega t + \varphi)]$$
+Perceba como os termos em colchetes são exatamente os termos da equação do movimento, podemos descrever então a aceleração como:
+$$a(t) = -\omega²x(t)$$
+---
