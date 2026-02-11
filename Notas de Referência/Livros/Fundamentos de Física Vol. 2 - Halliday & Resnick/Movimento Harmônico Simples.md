@@ -18,4 +18,9 @@ O termo ωt representa a variação do ângulo em função do tempo, é a parte 
 
 No MHS definimos o Período como o tempo necessário para completar um ciclo de oscilação completo. Podemos então inferir que uma partícula retorna para a sua posição inicial a cada "Período" de tempo. Aplicando essa relação na função da possição do corpo, podemos definir a frequência angular em termos do período de oscilação: 
 $$x(t) = x_{m}\cos(\omega t + \varphi) = x_{m}\cos(\omega(t+T) + \varphi)$$
-A função cosseno volta a ter o mesmo valor a cada incremento da fase por 2
+A função cosseno, que descreve o movimento do corpo, volta a ter o mesmo valor a cada incremento da fase por 2π, portanto podemos definir a igualdade:
+$$
+\cos(\omega t + \varphi) = \cos(\omega (t+T) + \varphi) = \cos(\omega t+\varphi+2\pi)
+$$
+Simplificando os cossenos temos:
+$$\omega (t+T)+\varphi=\omega t + \varphi + 2\pi$$
