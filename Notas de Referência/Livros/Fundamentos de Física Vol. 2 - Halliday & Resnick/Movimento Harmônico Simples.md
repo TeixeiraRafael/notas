@@ -35,7 +35,7 @@ $$\omega (t+T)+\varphi=\omega t + \varphi + 2\pi$$
 Podemos também simplificar os termos da constante de fase φ:
 $$\omega (t+T) = \omega t + 2\pi$$
 Então:
-$$\omega t + \omega T = \omega t + 2\pi$$
+$$\omega t + \omega T = \omega t + 2\pi$$ 
 $$\omega T = 2\pi$$
 $$\omega = \frac{2\pi}{T} = 2\pi f$$
 A partir da função que descreve a posição do corpo ao longo do tempo, podemos definir a função que descreve a sua velocidade e aceleração. A velocidade é definida como a variação da posição em função do tempo, portanto:
