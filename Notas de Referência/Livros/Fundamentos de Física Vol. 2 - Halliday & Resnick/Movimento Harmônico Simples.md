@@ -45,7 +45,7 @@ $$
 $$v(t) = -\omega . x_{m} . \sin (\omega t + \varphi)$$
 Derivando a velocidade, obtemos a aceleração, a taxa de variação da velocidade em função do tempo:
 $$a(t) = \frac{d}{dt}v(t) = \frac{d}{dt}[-\omega  x_{m}\sin (\omega t + \varphi)]$$
-$$a(t) = -\omega² [xm\cos(\omega t + \varphi)]$$
+$$a(t) = -\omega² [x_{m}\cos(\omega t + \varphi)]$$
 Perceba como os termos em colchetes são exatamente os termos da equação do movimento, podemos descrever então a aceleração como:
 $$a(t) = -\omega²x(t)$$
 ---
