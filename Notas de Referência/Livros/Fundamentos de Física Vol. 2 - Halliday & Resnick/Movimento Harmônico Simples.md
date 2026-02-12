@@ -52,3 +52,6 @@ $$a(t) = -\omega²x(t)$$
 Conhecendo a relação entre aceleração e deslocamento, podemos aplicar a segunda lei de Newton para determinar a força que deve agir sobre o corpo para que ele adquira tal aceleração:
 $$F = ma = m(-\omega²x) = -(m\omega²)x$$
 O sinal negativo indica que a força age sempre no sentido contrário ao deslocamento, sendo uma _força de restauração_.
+
+### Referências:
+- https://www.youtube.com/watch?v=CrYqhJ_xZt4
