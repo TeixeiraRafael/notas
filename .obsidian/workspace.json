@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Movimento Harmônico Simples"
             }
+          },
+          {
+            "id": "f8fffc349bee0acf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas de Referência/Livros/Fundamentos de Física Vol. 2 - Halliday & Resnick/Movimento Harmônico Simples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Movimento Harmônico Simples"
+              "title": "Backlinks"
             }
           },
           {
@@ -169,7 +181,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "169409a325b08a25",
+  "active": "f8fffc349bee0acf",
   "lastOpenFiles": [
     "Notas de Referência/Livros/Fundamentos de Física Vol. 2 - Halliday & Resnick/Movimento Harmônico Simples.md",
     "Notas de Referência/Livros/Comunicação de Dados - Juergen Rochol/Informação.md",
